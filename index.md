@@ -1,3 +1,11 @@
+## About Me
+
+- My name is Brandon Fung
+- I am a student at Boise State.
+- I love playing video games.
+- I am new to coding.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bfung17/bfung17.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
